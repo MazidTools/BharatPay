@@ -1,0 +1,7 @@
+{
+  "name": "bharatpe-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "High-performance BharatPe UPI verification proxy running on Vercel Mumbai (bom1)",
+  "main": "api/index.js"
+}
